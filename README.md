@@ -189,11 +189,5 @@ This project is released under the **MIT License**.
 
 ---
 
-## 📬 Contact
-
-📧 *[[shaneshraje@gmail.com](mailto:shaneshraje@gmail.com)]*
-🌐 GitHub: [@ShaneshrajeK](https://github.com/ShaneshrajeK)
-
----
 
 > 🕊️ *“Delivering diagnostics where roads can’t reach — MedResQ.”*
