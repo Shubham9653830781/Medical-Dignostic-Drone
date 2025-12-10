@@ -177,7 +177,7 @@ The `media/` folder contains:
 
 ## 👩‍🔬 Developers
 
-**Project Lead:** Shaneshraje Kadu\
+**Project Lead:** Shubham Meena\
 **Institute:** IIT (BHU), Varanasi\
 **Club:** Aero-Modelling Club, IIT (BHU)
 
